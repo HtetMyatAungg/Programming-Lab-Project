@@ -1,2 +1,2 @@
-# Programming-Lab-Project
+# Python Library (Math Helper for Statistic)
 
