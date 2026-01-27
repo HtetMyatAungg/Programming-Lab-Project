@@ -1,2 +1,2 @@
-# Python Library (Math Helper for Statistic)
+# Student Mark Analyser
 
